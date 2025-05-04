@@ -1,33 +1,33 @@
 # 📚 Books Web
 
-ברוכים הבאים לפרויקט **Books Web** – אתר אינטרנט אינטראקטיבי שמאפשר למשתמשים לקרוא, לתרגם ולנתח טקסטים בצורה חווייתית, נוחה ומודרנית.
+Welcome to **Books Web** – an interactive web application designed to enhance reading, translation, and language learning in an intuitive and modern way.
 
-🌐 **קישור לאתר:**  
+🌐 **Live Site:**  
 [https://books-web-3b061.web.app](https://books-web-3b061.web.app)
 
 ---
 
-## ✨ תכונות עיקריות
+## ✨ Features
 
-- 🔍 בחירת טקסט חופשית מתוך קטעי קריאה
-- 🌐 תרגום בזמן אמת לכל שפה נתמכת ע"י Google Translate API
-- 📊 ספירת מילים אוטומטית לטקסט הנבחר
-- 🖱️ תרגום לפי קליק ימני – חוויית משתמש אינטואיטיבית
-- 💡 תרגום מוצג בצורה ברורה מתחת לטקסט המקורי
-
----
-
-## 🛠️ טכנולוגיות בשימוש
-
-- **React** – לבניית ממשק משתמש דינמי ומרובה מצבים
-- **Vite** – להרצת סביבת פיתוח מהירה
-- **Firebase Hosting** – לאחסון האתר בענן
-- **Google Translate API** – לתרגום טקסטים בזמן אמת
-- **Tailwind CSS** *(אם השתמשת)* – לעיצוב מודרני ונוח
+- 🔍 Select any text freely from reading sections
+- 🌐 Real-time translation to any language using Google Translate API
+- 🧮 Automatic word count for selected text
+- 🖱️ Right-click to instantly translate text – intuitive and user-friendly
+- 💬 Translations appear clearly below the original text
 
 ---
 
-## 📦 התקנה והרצה מקומית (אופציונלי)
+## 🛠️ Built With
+
+- **React** – for a dynamic, component-based user interface  
+- **Vite** – fast and efficient development environment  
+- **Firebase Hosting** – for cloud-based deployment  
+- **Google Translate API** – for real-time translations  
+- **Tailwind CSS** *(if used)* – for clean and responsive design  
+
+---
+
+## 📦 Getting Started (Local Setup)
 
 ```bash
 git clone https://github.com/your-username/books-web.git
