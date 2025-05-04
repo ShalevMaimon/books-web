@@ -1,33 +1,34 @@
 # 📚 Books Web
 
-Welcome to **Books Web** – an interactive web application designed to enhance reading, translation, and language learning in an intuitive and modern way.
+**Books Web** is a modern web application that allows users to build a personal library, track their reading progress, and add personal notes to books they love.
 
-🌐 **Live Site:**  
+🌐 **Live Website:**  
 [https://books-web-3b061.web.app](https://books-web-3b061.web.app)
 
 ---
 
 ## ✨ Features
 
-- 🔍 Select any text freely from reading sections
-- 🌐 Real-time translation to any language using Google Translate API
-- 🧮 Automatic word count for selected text
-- 🖱️ Right-click to instantly translate text – intuitive and user-friendly
-- 💬 Translations appear clearly below the original text
+- ➕ Add books to your personal library
+- 📝 Write and save notes for each book
+- ✅ Mark books as "Read" to track your progress
+- 📌 View your full book collection in one place
+- 🔄 Simple and intuitive interface for managing your reading habits
 
 ---
 
 ## 🛠️ Built With
 
-- **React** – for a dynamic, component-based user interface  
-- **Vite** – fast and efficient development environment  
-- **Firebase Hosting** – for cloud-based deployment  
-- **Google Translate API** – for real-time translations  
-- **Tailwind CSS** *(if used)* – for clean and responsive design  
+- **React** – for building a dynamic and responsive user interface  
+- **Vite** – for fast project setup and development  
+- **Firebase Hosting** – for seamless cloud deployment  
+- **Tailwind CSS** *(if used)* – for clean, modern design  
 
 ---
 
-## 📦 Getting Started (Local Setup)
+## 📦 Getting Started
+
+To run the project locally:
 
 ```bash
 git clone https://github.com/your-username/books-web.git
